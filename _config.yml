@@ -12,7 +12,7 @@ title                    : "Cory Brautigam"
 title_separator          : "-"
 name                     : &name "Cory Brautigam"
 description              : &description "Educator and PhD student. My research looks at how teachers think about their role within society and how this is reflected in their classroom practices."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cjbrautigam.github.io/cbrautigam.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
